@@ -66,6 +66,8 @@
   <ItemGroup>
     <ClCompile Include="冒泡排序.cpp" />
     <ClCompile Include="堆排序.cpp" />
+    <ClCompile Include="快速排序.cpp" />
+    <ClCompile Include="直接选择.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
